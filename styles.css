@@ -1,0 +1,39 @@
+/***************************************************HEAD PART********************************************/
+
+body {
+  background-color:#D0F0C0;
+}
+
+
+hr {
+  border-color: grey;
+  border-style: dotted none none none;
+  width: 25%;
+  border-width: 6px;
+}
+h1 {
+  color: #66BFBF;
+}
+h3: active {
+  color: #66BFBF;
+}
+
+/***************************************************CLASS PART********************************************/
+
+.Guitar {
+  background-color: black;
+}
+.Science {
+  background-color: black;
+}
+.Cricket {
+  background-color: black;
+}
+.Circular {
+  border-radius: 100px;
+}
+
+/***************************************************IMAGE PART********************************************/
+img:hover {
+  background-color: #6666ff;
+}
